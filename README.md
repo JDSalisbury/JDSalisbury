@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=JDSalisbury.JDSalisbury) -->
+![](https://visitor-badge.glitch.me/badge?page_id=JDSalisbury.JDSalisbury)
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... -->
 <!--
 **JDSalisbury/JDSalisbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
