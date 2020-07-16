@@ -1,24 +1,6 @@
-### Hi there 👋
-
-![](https://visitor-badge.glitch.me/badge?page_id=JDSalisbury.JDSalisbury)
-
-<!-- - 🔭 I’m currently working on ... -->
-<!--
-**JDSalisbury/JDSalisbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-  <br />
-
-### - Languages and Tools...
+<a href="https://sourcerer.io/jdsalisbury"><img src="https://img.shields.io/badge/Python-225%20commits-orange.svg" alt=""></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sourcerer.io/jdsalisbury"><img src="https://img.shields.io/badge/JavaScript-368%20commits-orange.svg" alt=""></a>
+<br>
+<br>
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/JDSalisbury/JDSalisbury/master/svg/skills/html.svg" alt="html" style="vertical-align:top; margin:4px">
@@ -33,3 +15,7 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/JDSalisbury/JDSalisbury/master/svg/skills/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/JDSalisbury/JDSalisbury/master/svg/skills/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:4px">
 </p>
+<br>
+<br>
+
+![](https://visitor-badge.glitch.me/badge?page_id=JDSalisbury.JDSalisbury)
