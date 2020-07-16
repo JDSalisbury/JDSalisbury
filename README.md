@@ -2,6 +2,13 @@
 <br>
 <br>
 
+<div>
+<a href="https://www.jdsalisbury.com/">Portfolio</a>
+</div>
+<div>
+<a href="https://sourcerer.io/jdsalisbury">Sourcerer Account</a>
+</div>
+<br>
 <p align="center">
  <img src="https://raw.githubusercontent.com/JDSalisbury/JDSalisbury/master/svg/skills/html.svg" alt="html" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/JDSalisbury/JDSalisbury/master/svg/skills/js.svg" alt="js" style="vertical-align:top; margin:4px">
