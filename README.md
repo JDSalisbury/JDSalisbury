@@ -2,7 +2,6 @@
 &nbsp;&nbsp;&nbsp;
 ![](https://visitor-badge.glitch.me/badge?page_id=JDSalisbury.JDSalisbury)
 <br>
-<br>
 
 <div>
 <div style="float: left">
