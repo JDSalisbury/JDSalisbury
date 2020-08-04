@@ -4,15 +4,9 @@
 
 ---
 
-<div>
-<div style="float: left">
-<a href="https://www.jdsalisbury.com/">Portfolio</a>
-</div>
-<div style="float: right">
-<a href="https://sourcerer.io/jdsalisbury">Sourcerer Account</a>
-</div>
-</div>
-<br>
+[Portfolio](https://www.jdsalisbury.com/)
+
+[Sourcerer](https://sourcerer.io/jdsalisbury)
 
 ---
 
