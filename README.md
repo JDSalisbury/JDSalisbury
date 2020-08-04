@@ -1,4 +1,5 @@
 <a href="https://sourcerer.io/jdsalisbury"><img src="https://img.shields.io/badge/Python-225%20commits-orange.svg" alt=""></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sourcerer.io/jdsalisbury"><img src="https://img.shields.io/badge/JavaScript-368%20commits-orange.svg" alt=""></a>
+![](https://visitor-badge.glitch.me/badge?page_id=JDSalisbury.JDSalisbury)
 <br>
 <br>
 
@@ -25,4 +26,5 @@
 <br>
 <br>
 
-![](https://visitor-badge.glitch.me/badge?page_id=JDSalisbury.JDSalisbury)
+![Jeff's github stats](https://github-readme-stats.vercel.app/api?username=JDSalisbury&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JDSalisbury&theme=radical&layout=compact)
