@@ -59,4 +59,3 @@
 <br>
 <br>
 <a href="https://app.daily.dev/jdsalsy"><img src="https://api.daily.dev/devcards/v2/50a238a03d944f30917b3e12099154da.png?r=end&type=default" width="356" alt="Jeff Salisbury's Dev Card"/></a>
-
