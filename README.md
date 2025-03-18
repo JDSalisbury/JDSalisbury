@@ -6,7 +6,6 @@
 
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdsalisbury&label=Profile%20views&color=0e75b6&style=flat" alt="jdsalisbury" /> </p>
 
@@ -14,13 +13,15 @@
 
 <p align="left"> <a href="https://twitter.com/jdsalsy" target="blank"><img src="https://img.shields.io/twitter/follow/jdsalsy?logo=twitter&style=for-the-badge" alt="jdsalsy" /></a> </p>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **Cloud**
 
-- 🌱 I’m currently learning **FastAPI, AWS**
+- 🌱 I’m currently learning **AWS, Azure**
 
 - 👨‍💻 All of my projects are available at [https://www.jdsalisbury.com/](https://www.jdsalisbury.com/)
 
 - 💬 Ask me about **python, vue, react**
+
+- 🌱 Check out my thoughts in the wild: [https://jdsalisbury.github.io/](https://jdsalisbury.github.io/)
 
 - 📫 How to reach me **https://www.jdsalisbury.com/contact**
 
