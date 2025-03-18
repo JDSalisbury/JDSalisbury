@@ -7,9 +7,7 @@
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 ---
-<a href="https://app.daily.dev/jdsalsy"><img src="https://api.daily.dev/devcards/v2/50a238a03d944f30917b3e12099154da.png?r=end&type=default" width="356" alt="Jeff Salisbury's Dev Card"/></a>
 
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdsalisbury&label=Profile%20views&color=0e75b6&style=flat" alt="jdsalisbury" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jdsalisbury" alt="jdsalisbury" /></a> </p>
@@ -59,3 +57,5 @@
 </p>
 <br>
 <br>
+<a href="https://app.daily.dev/jdsalsy"><img src="https://api.daily.dev/devcards/v2/50a238a03d944f30917b3e12099154da.png?r=end&type=default" width="356" alt="Jeff Salisbury's Dev Card"/></a>
+
